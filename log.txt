@@ -1,0 +1,9 @@
+Mensagem qualquer.{"free":"388 MB","total":"7872 MB","usage":"4%"}
+{"free":"381 MB","total":"7872 MB","usage":"4%"}
+{"free":"381 MB","total":"7872 MB","usage":"4%"}
+{"free":"385 MB","total":"7872 MB","usage":"4%"}
+{"free":"385 MB","total":"7872 MB","usage":"4%"}
+{"free":"379 MB","total":"7872 MB","usage":"4%"}
+{"free":"374 MB","total":"7872 MB","usage":"4%"}
+{"free":"380 MB","total":"7872 MB","usage":"4%"}
+Mensagem qualquer.
